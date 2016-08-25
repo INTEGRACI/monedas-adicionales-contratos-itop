@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <classes>
+    <class id="Contract">
+      <fields>
+        <field id="cost_currency">
+          <values>
+            <!-- Add your currency here, then translate it in <dictionaries> -->
+            <!-- <value id="you_currency" _delta="define">you_currency</value> -->
+            <value id="rubles" _delta="define">rubles</value>
+          </values>
+        </field>
+      </fields>
+    </class>
+  </classes>
+  <dictionaries>
+    <dictionary id="RU RU">
+      <entries>
+        <entry id="Class:Contract/Attribute:cost_currency/Value:rubles" _delta="define"><![CDATA[Рубли]]></entry>
+      </entries>
+    </dictionary>
+    <dictionary id="EN US">
+      <entries>
+        <entry id="Class:Contract/Attribute:cost_currency/Value:rubles" _delta="define"><![CDATA[Rubles]]></entry>
+      </entries>
+    </dictionary>
+    <!-- Create a dictionary with your language code ('EN US', 'FR FR', 'RU RU', etc.) and add translation entities below -->
+    <!-- <dictionary id="EN US"> -->
+      <!-- <entries> -->
+        <!-- <entry id="Class:Contract/Attribute:cost_currency/Value:you_currency" _delta="define"><![CDATA[Your Currency]]></entry> -->
+      <!-- </entries> -->
+    <!-- </dictionary> -->
+  </dictionaries>
+</itop_design>
