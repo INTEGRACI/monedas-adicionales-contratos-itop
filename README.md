@@ -9,7 +9,7 @@ Esta extensión permite añadir las siguientes monedas al modelo de datos de Con
 ## Instalación
 Descarga en directorio de extensiones.
 
-    $ git clone https://github.com/INTEGRACI/monedas-adicionales-contratos-itop.git /var/www/html/itop/extensions
+    $ git clone https://github.com/INTEGRACI/monedas-adicionales-contratos-itop.git /var/www/html/itop/extensions/monedas-adicionales-contratos
 
 Ejecuta la instalación.
 
