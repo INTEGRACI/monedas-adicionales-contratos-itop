@@ -1,11 +1,9 @@
-# additional-contract-currencies
+# Monedas Adicionales para Contratos de iTop
+Probado en iTop 2.6
 
-## Additional cost currencies for Customer and Provider contracts in Commbodo iTop
+Esta extensión permite añadir las siguientes monedas al modelo de datos de Contratos:
+- Pesos
+- Bitcoins
 
-Use it as a standalone module or as a snippet for your own code. Check the comments in the datamodel.additional-contract-currencies.xml file.
-
-## Дополнительные валюты стоимости для договоров с заказчиком и поставщиком в Combodo iTop
-
-Используйте самостоятельно или добавьте этот код в свой модуль. В файле datamodel.additional-contract-currencies.xml есть пример и комментарии.
-
+Fork de https://github.com/itop-itsm-ru/additional-contract-currencies
 **iTop ITSM & CMDB по-русски** http://community.itop-itsm.ru/
