@@ -27,7 +27,7 @@
       <entries>
         <entry id="Class:Contract/Attribute:cost_currency/Value:pesos" _delta="define"><![CDATA[Pesos]]></entry>
         <entry id="Class:Contract/Attribute:cost_currency/Value:bitcoins" _delta="define"><![CDATA[Bitcoins]]></entry>
-        <entry id="Class:Contract/Attribute:cost_currency/Value:rublos" _delta="define"><![CDATA[Rubles]]></entry>
+        <entry id="Class:Contract/Attribute:cost_currency/Value:rublos" _delta="define"><![CDATA[Rublos]]></entry>
       </entries>
     </dictionary>
     <!-- Create a dictionary with your language code ('EN US', 'FR FR', 'RU RU', etc.) and add translation entities below -->
