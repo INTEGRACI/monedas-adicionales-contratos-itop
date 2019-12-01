@@ -5,6 +5,7 @@ Esta extensión permite añadir las siguientes monedas al modelo de datos de Con
 - Pesos
 - Bitcoins
 - Rublos
+- Yuanes
 
 ## Instalación
 Descarga en directorio de extensiones.
